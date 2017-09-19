@@ -1,0 +1,18 @@
+* {text-align: center;
+  background-color: black;}
+
+h2,
+h3 {color: darkgreen;}
+
+h3 {color: seagreen;}
+
+.beaches, a {text-decoration: none;
+             font-weight: bold;
+             color: skyblue;
+}
+
+ol { list-style-type: none;}
+
+a:hover {font-size: 22px;
+         color: red;
+}
