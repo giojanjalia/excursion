@@ -1,18 +1,33 @@
-* {text-align: center;
-  background-color: black;}
+body  {text-align: center;
+  background-color: black;
+  font-family: verdana;
+  }
 
-h2,
-h3 {color: darkgreen;}
+h1 {color: white;
+      font-weight: normal;
+      font-size: 50px;
+      text-align: center;
+      font-family: Verdana;}
 
-h3 {color: seagreen;}
+h2 {color: white;
+      font-family: Verdana;
+      font-size: 42px;
+      font-weight: 300;
+      text-align: center;}
 
-.beaches, a {text-decoration: none;
-             font-weight: bold;
-             color: skyblue;
+.Par {font-family: Verdana;
+      font-size: 21px;
+      color: gray;
 }
 
-ol { list-style-type: none;}
 
-a:hover {font-size: 22px;
-         color: red;
+a{font-size: 16px;
+  color: aquamarine;
+}
+
+#CopyRight {
+  text-align: right;
+  color: gray;
+  font-size: 22px;
+  font-family: verdana;
 }
